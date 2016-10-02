@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     int i,j,n;
-    cout<<"½Ğ¿é¤J¤@¥¿¾ã¼Æ"<<endl; cin>>n;
+    cout<<"è«‹è¼¸å…¥ä¸€æ­£æ•´æ•¸: "<<endl; cin>>n;
     cout<<endl;
     
     for(i=0; i<n/2; i++){              
